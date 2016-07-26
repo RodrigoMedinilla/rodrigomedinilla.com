@@ -1,0 +1,3 @@
+0. Repositorio creado en GitHub y con todo creado dentro.
+	README.md es la documentacion resumen en modo Wiki
+1. git Clone [URL repositorio]
